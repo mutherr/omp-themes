@@ -251,7 +251,7 @@
           "background": "#b2bec3",
           "foreground": "#222222",
           "leading_diamond": "\ue0b6",
-          "trailing_diamond": "<transparent,background>\ue0b2</>",
+          "trailing_diamond": "\ue0b4",
           "properties": {
             "linux": "\ue712",
             "macos": "\ue711",
