@@ -98,7 +98,7 @@
           },
           "style": "diamond",
           "template": " \u2665 {{ .CurrentDate | date .Format }} ",
-          "trailing_diamond": "\ue0b0",
+          "trailing_diamond": "\ue0b4",
           "type": "time"
         }
       ],
